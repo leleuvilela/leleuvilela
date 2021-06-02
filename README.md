@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Hi there, I'm Paulo!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Hi there, I'm Vinícius!</h1>
 
 <img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
 

@@ -9,7 +9,7 @@ Full Stack Development
 <a href="mailto:viniciusvilela19@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>👨‍💻 ┇ I currently work at e-Deploy as a full-stack developer remotely;</li>
+  <li>👨‍💻 ┇ I currently work at Multivision in Porto/Portugal as a full-stack developer remotely;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React and React Native;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Willing to contribute in opensource projects;</li>

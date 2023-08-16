@@ -2,14 +2,14 @@
 
 <img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
 
-Full Stack Development
+Software Developer
 
 <a href="https://linkedin.com/in/viniciusvilelanunes/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/uaileleu"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:viniciusvilela19@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>👨‍💻 ┇ I currently work at Multivision in Porto/Portugal as a full-stack developer remotely;</li>
+  <li>👨‍💻 ┇ I currently work at Critical Software in Porto/Portugal as a front-end developer remotely;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React and React Native;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Willing to contribute in opensource projects;</li>
